@@ -9,5 +9,5 @@ We present here several initial positions. In all of them, the target is hijacke
 
 |  |  |
 |:-:|:-:|
-| ![Case1](EXPERIMENTS/Article-004.gif)  Cas 1| ![Case2](EXPERIMENTS/Article-006.gif) Cas 2|
-| ![Case3](EXPERIMENTS/Article-010.gif)  Cas 3| ![Case4](EXPERIMENTS/Article-013.gif) Cas 4|
+| ![Case1](EXPERIMENTS/article-004.gif)  Cas 1| ![Case2](EXPERIMENTS/article-006.gif) Cas 2|
+| ![Case3](EXPERIMENTS/article-010.gif)  Cas 3| ![Case4](EXPERIMENTS/article-013.gif) Cas 4|
